@@ -24,3 +24,8 @@ def translate(codons):
     else:
         print("Invalid codon")
 translate(input())
+
+
+#push -- git push -u origin nagarjuna  git push -upstream origin nagarjuna(branch)
+#commit -- records the file version history permanently   git commit -m "initial commit(any msg)"
+#add -- Use git add . to add all files to the staging area(mounting on the destination route)
